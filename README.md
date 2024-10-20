@@ -1,7 +1,7 @@
 ## Project Description
 This repository contains the code and data for my master thesis:
 
-**"Escalation of Commitment and Behavioral Biases in Transfermarkt's Player Valuations in Professional Football"**
+**"Escalation of Commitment in Professional Football: An Analysis of Transfermarkt Valuations"**
 
 The project investigates potential biases in Transfermarkt's player valuations, focusing on escalation of commitment, anchoring, and overconfidence. The analysis covers over 1,000 players from Europe's top five leagues over four seasons (2017/2018 to 2020/2021).
 
